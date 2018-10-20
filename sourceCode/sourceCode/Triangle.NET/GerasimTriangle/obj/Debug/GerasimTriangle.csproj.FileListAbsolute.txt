@@ -1,0 +1,17 @@
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\bin\Debug\GerasimTriangle.exe.config
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\bin\Debug\GerasimTriangle.exe
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\bin\Debug\GerasimTriangle.pdb
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\obj\Debug\GerasimTriangle.csprojAssemblyReference.cache
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\obj\Debug\GerasimTriangle.Properties.Resources.resources
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\obj\Debug\GerasimTriangle.csproj.GenerateResource.cache
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\obj\Debug\GerasimTriangle.csproj.CoreCompileInputs.cache
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\obj\Debug\GerasimTriangle.exe
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\obj\Debug\GerasimTriangle.pdb
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\bin\Debug\Mesh Explorer.exe
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\bin\Debug\Triangle.dll
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\bin\Debug\Triangle.Rendering.dll
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\bin\Debug\Mesh Explorer.pdb
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\bin\Debug\Triangle.Rendering.pdb
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\bin\Debug\Triangle.pdb
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\obj\Debug\GerasimTriangle.csproj.CopyComplete
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\GerasimTriangle\obj\Debug\GerasimTriangle.Form1.resources

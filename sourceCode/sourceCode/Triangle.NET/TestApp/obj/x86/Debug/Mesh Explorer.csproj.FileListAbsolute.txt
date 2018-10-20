@@ -1,0 +1,21 @@
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\bin\Debug\Mesh Explorer.exe
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\bin\Debug\Mesh Explorer.pdb
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\bin\Debug\Triangle.dll
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\bin\Debug\Triangle.Rendering.dll
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\bin\Debug\Triangle.Rendering.pdb
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\bin\Debug\Triangle.pdb
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\obj\x86\Debug\Mesh Explorer.csprojAssemblyReference.cache
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\obj\x86\Debug\MeshExplorer.FormExport.resources
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\obj\x86\Debug\MeshExplorer.FormGenerator.resources
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\obj\x86\Debug\MeshExplorer.FormLog.resources
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\obj\x86\Debug\MeshExplorer.FormMain.resources
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\obj\x86\Debug\MeshExplorer.FormTopology.resources
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\obj\x86\Debug\MeshExplorer.Topology.TopologyControlView.resources
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\obj\x86\Debug\MeshExplorer.Views.AboutView.resources
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\obj\x86\Debug\MeshExplorer.Views.MeshControlView.resources
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\obj\x86\Debug\MeshExplorer.Views.StatisticView.resources
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\obj\x86\Debug\Mesh Explorer.csproj.GenerateResource.cache
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\obj\x86\Debug\Mesh Explorer.csproj.CoreCompileInputs.cache
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\obj\x86\Debug\Mesh Explorer.csproj.CopyComplete
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\obj\x86\Debug\Mesh Explorer.exe
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\TestApp\obj\x86\Debug\Mesh Explorer.pdb

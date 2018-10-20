@@ -1,0 +1,9 @@
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\Triangle.Rendering\bin\Debug\Triangle.Rendering.dll
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\Triangle.Rendering\bin\Debug\Triangle.Rendering.pdb
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\Triangle.Rendering\bin\Debug\Triangle.dll
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\Triangle.Rendering\bin\Debug\Triangle.pdb
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\Triangle.Rendering\obj\Debug\Triangle.Rendering.csprojAssemblyReference.cache
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\Triangle.Rendering\obj\Debug\Triangle.Rendering.csproj.CoreCompileInputs.cache
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\Triangle.Rendering\obj\Debug\Triangle.Rendering.csproj.CopyComplete
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\Triangle.Rendering\obj\Debug\Triangle.Rendering.dll
+D:\VS\TriangleNet\sourceCode\sourceCode\Triangle.NET\Triangle.Rendering\obj\Debug\Triangle.Rendering.pdb
